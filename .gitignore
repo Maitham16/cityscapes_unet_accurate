@@ -1,0 +1,6 @@
+enet_cityscapes/
+gtFine/
+leftImg8bit/
+best_model.keras
+final_model.keras
+model.tflite
